@@ -8,3 +8,6 @@ This will include:
 *HTML
 *CSS
 *JS
+
+
+Next we are trying to add Jquery
